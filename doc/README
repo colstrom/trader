@@ -6,13 +6,13 @@ Name
 Version
 	v0.6.3 (2006-10-21)
 Author
-        Chris 'Silicon Viper' Olstrom
+        Chris Olstrom
 License
-        GNU General Public License, v2+
+        Apache 2.0
 Description
 	A simple game of economics.
 WWW
-	http://colstrom.whatthefork.org/software/perl/trader/
+	http://colstrom.downloadspark.com/trader/
 
                                                                      Changelog
 ------------------------------------------------------------------------------
